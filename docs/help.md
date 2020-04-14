@@ -1,7 +1,7 @@
 ---
 nav:
   title: 帮助
-  order: 2
+  order: 101
 ---
 
 # 帮助
